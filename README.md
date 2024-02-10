@@ -17,7 +17,6 @@ Usage:
 4. Use the slicers provided to filter data based on different demographics and geographic factors.
 5. Explore the various tabs to visualize sales data and analyses.
 
-Screenshot :
-![Capture_bikesSalesDashboard](https://github.com/Smriti-netizen/BikesSales_Dashboard/assets/76514589/952b7ddc-fdd1-4dec-a488-3617f3cdaa23)
+Screenshot :![Capture_bikesSalesDashboard](https://github.com/Smriti-netizen/BikesSales_Dashboard/assets/76514589/952b7ddc-fdd1-4dec-a488-3617f3cdaa23)
 
 
